@@ -1,4 +1,4 @@
-# Pashupatiath1strepo
+# Pashupatinath1strepo
 this is my first Repository
 <br>
 Author-> Pashupatinath soni
